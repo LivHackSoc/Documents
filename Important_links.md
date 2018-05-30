@@ -33,3 +33,12 @@ https://github.com/hacksoc-manchester/constitution
 ## Repo
 
 https://github.com/hacksoc-manchester
+
+
+# HackSoc Glasgow
+
+https://gutechsoc.com/files/constitution2017.pdf
+
+# Hack Cambridge
+
+https://github.com/hackcambridge
