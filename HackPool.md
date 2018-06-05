@@ -5,8 +5,7 @@
 
 # Hackathon date
 
-April / March since it gives us more time. Could potentially get change to October later on.
-
+Commitee has decided on march 16th 12pm to march 17th 5pm?
 hackathon is 26 - 27 hours. 24 hours of hacking, 2 - 3 hours of presentations and prize giving.
 
 # Hackathon sponsor ideas
