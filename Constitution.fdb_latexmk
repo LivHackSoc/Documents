@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1529267837 "/Users/thepnathi/development/LivHackSoc/Documents/Constitution.tex" "Constitution.pdf" "Constitution" 1529267838
-  "/Users/thepnathi/development/LivHackSoc/Documents/Constitution.tex" 1529267836 3429 043446c21245a987048c01f85ae44d76 ""
+["pdflatex"] 1529275362 "/Users/thepnathi/development/LivHackSoc/Documents/Constitution.tex" "Constitution.pdf" "Constitution" 1529275363
+  "/Users/thepnathi/development/LivHackSoc/Documents/Constitution.tex" 1529275361 6329 f6fda898f4287d7b731b5b572b2cf46f ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -51,9 +51,9 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1515343632 4129591 2ed6df4e19fdbba2f303f0b703ca5519 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "Constitution.aux" 1529267838 804 3403b6189b7d1532d23244eb3250595a ""
-  "Constitution.tex" 1529267836 3429 043446c21245a987048c01f85ae44d76 ""
+  "Constitution.aux" 1529275363 804 473be3f1ee822e95b14b2e41e531b674 ""
+  "Constitution.tex" 1529275361 6329 f6fda898f4287d7b731b5b572b2cf46f ""
   (generated)
+  "Constitution.aux"
   "Constitution.log"
   "Constitution.pdf"
-  "Constitution.aux"
