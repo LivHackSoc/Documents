@@ -22,7 +22,7 @@ We need to communicate with local businesses, other universities and more to tur
 We communicate pubically in our Slack group. Information **needs** to be shared and free. We will not hide information from eachother via DMs.
 We will aim to mainly use Slack as a forms of communication. Occasionally when we are all in the same room we can discuss this in person, but Slack is the main means of communciation.
 
-We build a little every single day. Even if you only change the grammar on a sentence, build something every single day.
+We encourage everyone to build a little every single day. Even if you only change the grammar on a sentence, build something every single day. 
 This is a marathon, not a sprint. We can't build this community by working 24/7 over a period of a week. We need to go slowly and be fast when we are required to be fast.
 
 # Story
@@ -35,6 +35,8 @@ who are passionate about the cause we decided to recreate the society.
 We were jealous of what Manchester had and we wanted a hacker scene just like them.
 
 ## Milestones
+
+We will record our progress here. So in teh future we can look back.
 
 ### Community Website
 When this is built write a story of:
